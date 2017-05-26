@@ -1,0 +1,7 @@
+*.dat
+cat_lau.csv
+Table1.all.txt
+restos/*.cat
+*.pyc
+*.py~
+*.ipynb_checkpoints*
