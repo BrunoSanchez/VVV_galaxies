@@ -5,3 +5,4 @@ restos/*.cat
 *.pyc
 *.py~
 *.ipynb_checkpoints*
+analisis.R
