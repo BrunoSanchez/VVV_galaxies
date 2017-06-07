@@ -6,3 +6,6 @@ restos/*.cat
 *.py~
 *.ipynb_checkpoints*
 analisis.R
+catalog.dat.gz
+cumulo.pdf
+papeles/
